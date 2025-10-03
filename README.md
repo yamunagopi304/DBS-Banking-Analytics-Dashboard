@@ -17,19 +17,22 @@ This project aims to showcase data analytics skills by building an end-to-end Po
  2. Banking Transactions Dataset – used to explore transaction patterns (not directly linked to loan data)
     
 📌 Key Features & Insights
+
 KPIs:
- • Top Region: Ludhiana (129M)
- • Top Loan Type: Home Loans (278M)
- • High-Risk Group: Not Verified (37% defaults)
- • Top Borrower Age Group: 26–35 yrs (24K loans)
- • Loans by Status: Active – 36K, Fully Paid – 16K
- • Loans by Year: Peak in 2018 (26K loans)
+
+- Top Region: Ludhiana (129M)
+- Top Loan Type: Home Loans (278M)
+- High-Risk Group: Not Verified (37% defaults)
+- Top Borrower Age Group: 26–35 yrs (24K loans)
+- Loans by Status: Active – 36K, Fully Paid – 16K
+- Loans by Year: Peak in 2018 (26K loans)
  
 Visuals:
- • Loan distribution by purpose, region, branch, and officer
- • Borrower segmentation by age, religion, caste, and home ownership
- • Loan default patterns by verification status
- • Loan trends across years
+
+- Loan distribution by purpose, region, branch, and officer
+- Borrower segmentation by age, religion, caste, and home ownership
+- Loan default patterns by verification status
+- Loan trends across years
  
 Summary Page: Highlights the most important insights across loan performance and customer behavior.
 
