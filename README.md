@@ -36,16 +36,6 @@ Visuals:
  
 Summary Page: Highlights the most important insights across loan performance and customer behavior.
 
-🚀 How to Use
- 1. Download the .pbix file from this repository.
- 2. Open it in Power BI Desktop.
- 3. Navigate through the tabs:
-    - Loan Performance
-    - Customer Insights
-    - Transactions
-    - Summary Page
-4. Interact with slicers to explore insights dynamically.
-
 📈 Applications
 
 - Loan portfolio monitoring and branch-level performance tracking.
