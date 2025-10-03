@@ -47,7 +47,8 @@ Summary Page: Highlights the most important insights across loan performance and
 4. Interact with slicers to explore insights dynamically.
 
 📈 Applications
- • Loan portfolio monitoring and branch-level performance tracking.
- • Customer segmentation for targeted financial products.
- • Identifying high-risk loan categories and default patterns.
- • Business decision-making support for financial institutions.
+
+- Loan portfolio monitoring and branch-level performance tracking.
+- Customer segmentation for targeted financial products.
+- Identifying high-risk loan categories and default patterns.
+- Business decision-making support for financial institutions.
