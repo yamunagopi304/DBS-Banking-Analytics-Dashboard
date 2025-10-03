@@ -6,11 +6,11 @@ An interactive Power BI report analyzing loan performance and customer insights 
 
 This project aims to showcase data analytics skills by building an end-to-end Power BI dashboard that highlights:
 
- • Loan distribution by type, region, and term
- • Borrower demographics (age, caste, religion, home ownership)
- • Loan performance trends (status, verification, defaults)
- • Key KPIs summarizing loan health and customer behavior
- • Additional transactional insights from a separate dataset
+- Loan distribution by type, region, and term
+- Borrower demographics (age, caste, religion, home ownership)
+- Loan performance trends (status, verification, defaults)
+- Key KPIs summarizing loan health and customer behavior
+- Additional transactional insights from a separate dataset
  
 📂 Data Sources
  1. DBS Loan Dataset – used to analyze loan performance and customer insights
