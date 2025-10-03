@@ -1,4 +1,5 @@
 📊 Banking Analytics Dashboard
+
 An interactive Power BI report analyzing loan performance and customer insights using the DBS loan dataset, along with a separate banking transactions dataset. The dashboard provides KPIs, visualizations, and actionable insights into loan portfolio trends, risk factors, borrower demographics, and transactional patterns.
 
 🔎 Overview
